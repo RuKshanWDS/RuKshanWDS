@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rukshan Wijenayaka</h1>
 <h3 align="center">Engineering Student | Passionate About Coding</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rukshanwijenayaka&label=Profile%20views&color=0e75b6&style=flat" alt="rukshanwijenayaka" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=RuKshanWDS&label=Profile%20views&color=0e75b6&style=flat" alt="rukshanwijenayaka" /> </p>
 
 <table align="center">
 <tr border="none">
@@ -36,13 +36,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=RukshanWijenayaka&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=RuKshanWDS&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RuKshanWDS&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RukshanWijenayaka&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RuKshanWDS&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
